@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 print("Hello World!;")
 print("Hello PDR;")
 print("Hello My Dear friend;")
 print("Glad to see you!;")
->>>>>>> feature/hello_advanced
